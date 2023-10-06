@@ -1,0 +1,22 @@
+{
+  "name": "Michael",
+  "username": "Smirnoff",
+  "email": "andrewhu08@test.com",
+  "address": {
+    "street": "Kulas Light",
+    "suite": "Apt. 556",
+    "city": "Gwenborough",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "+380636669990",
+  "website": "rap.ua",
+  "company": {
+    "name": "Triple-A",
+    "catchPhrase": "Rapper",
+    "bs": "writing rap compositions"
+  }
+}
